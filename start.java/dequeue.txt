@@ -1,0 +1,2 @@
+dequeue is the doubly ended queue
+in this case add.push,pop all function can be done on acting both side of the queue
